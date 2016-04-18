@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Fragment</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_fragment1">fragment1</string>
+    <string name="title_activity_activity_fragment2">activity_fragment2</string>
+    <string name="title_activity_fragment3">fragment3</string>
+    <string name="title_activity_fragment4">fragment4</string>
+    <string name="title_activity_fragment5">fragment5</string>
+    <string name="title_activity_fragment">fragment</string>
+    <string name="title_activity_fragment6">fragment6</string>
+    <string name="title_activity_fragment7">fragment7</string>
+    <string name="title_activity_fragment8">fragment8</string>
+    <string name="title_activity_fragment9">fragment9</string>
+    <string name="title_activity_fragment10">fragment10</string>
+    <string name="title_activity_fragment11">fragment11</string>
+</resources>

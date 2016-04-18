@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\projects\Android\Fragment\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="E:\projects\Android\Fragment\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-21.0.3_5d01efd27d012bd9adcac540904c726569227267.jar" />
+    </item>
+    <item
+        jar="E:\projects\Android\Fragment\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\projects\Android\Fragment\app\build\intermediates\pre-dexed\release\internal_impl-21.0.3_ddfd7d2e1fb6301688cfb197f59e4d2a85a55ce6.jar" />
+    </item>
+    <item
+        jar="E:\projects\Android\Fragment\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\projects\Android\Fragment\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-21.0.3_ba639f1adb98ab223ba68fb21030430abb4a7806.jar" />
+    </item>
+    <item
+        jar="E:\SDK\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\projects\Android\Fragment\app\build\intermediates\pre-dexed\release\support-annotations-21.0.3_9f3eba478cd1ce6345f70308cacae43a76f1c47c.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.wangwei.fragment" >
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".fragment1"
+            android:label="@string/title_activity_fragment1" >
+        </activity>
+        <activity
+            android:name=".fragment2"
+            android:label="@string/title_activity_activity_fragment2" >
+        </activity>
+        <activity
+            android:name=".fragment3"
+            android:label="@string/title_activity_fragment3" >
+        </activity>
+        <activity
+            android:name=".fragment4"
+            android:label="@string/title_activity_fragment4" >
+        </activity>
+        <activity
+            android:name=".fragment5"
+            android:label="@string/title_activity_fragment5" >
+        </activity>
+        <activity
+            android:name=".fragment"
+            android:label="@string/title_activity_fragment" >
+        </activity>
+        <activity
+            android:name=".fragment6"
+            android:label="@string/title_activity_fragment6" >
+        </activity>
+        <activity
+            android:name=".fragment7"
+            android:label="@string/title_activity_fragment7" >
+        </activity>
+        <activity
+            android:name=".fragment8"
+            android:label="@string/title_activity_fragment8" >
+        </activity>
+        <activity
+            android:name=".fragment9"
+            android:label="@string/title_activity_fragment9" >
+        </activity>
+        <activity
+            android:name=".fragment10"
+            android:label="@string/title_activity_fragment10" >
+        </activity>
+        <activity
+            android:name=".fragment11"
+            android:label="@string/title_activity_fragment11" >
+        </activity>
+    </application>
+
+</manifest>
